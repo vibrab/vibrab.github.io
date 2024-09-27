@@ -13,7 +13,7 @@ body {
   font-family: Arial, Courier New, monospace;
 }
 
- Style the header */
+
  
 header {
   background-color: #666;
@@ -23,7 +23,6 @@ header {
   color: white;
 }
 
-/* Create two columns/boxes that floats next to each other */
 nav {
   float: left;
   width: 30%;
@@ -32,7 +31,6 @@ nav {
   padding: 20px;
 }
 
-/* Style the list inside the menu */
 nav ul {
   list-style-type: none;
   padding: 0;
@@ -46,7 +44,6 @@ article {
   height: 300px; /* only for demonstration, should be removed */
 }
 
-! Clear floats after the columns */
 section::after {
   content: "";
   display: table;
@@ -56,7 +53,6 @@ section::after {
 
 }
 
-/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 @media (max-width: 600px) {
   nav, article {
     width: 100%;
@@ -67,9 +63,8 @@ section::after {
 </head>
 <body>
 
-<h2>CSS Layout Float</h2>
-<p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.</p>
-<p>Resize the browser window to see the responsive effect (you will learn more about this in our next chapter - HTML Responsive.)</p>
+<h2>THE TACO BELL REVIEW</h2>
+<p>In this website, we have rated the top 5 Taco Bell menu items and their respective reasons for their rankings.</p>
 
 <header>
   <h2>REVIEW</h2>
