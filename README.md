@@ -75,7 +75,7 @@ h2, h3 {
         <ol>
             <li>
                 <a href="https://www.tacobell.com/food/specialties/crunchwrap-supreme">Crunch Wrap Supreme</a>
-                <img src="images/crunchwrap.jpg" width="100" height="100" alt="Crunch Wrap Supreme">
+                <img src="https://www.nrn.com/sites/nrn.com/files/styles/article_featured_retina/public/Vegan_Crunchwrap_1.jpg?itok=dGRXc0re" width="100" height="100" alt="Crunch Wrap Supreme">
             </li>
             <li>
                 <a href="https://www.tacobell.com/food/deals-and-combos/nacho-fries">Nacho Fries</a>
