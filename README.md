@@ -14,6 +14,7 @@ body {
 }
 
  Style the header */
+ 
 header {
   background-color: #666;
   padding: 30px;
@@ -80,6 +81,8 @@ section::after {
     <ol>
       <li><a href="https://www.tacobell.com/food/specialties/crunchwrap-supreme">CruchWrap Supreme</a></li>
 	    <br>
+	    <img src="https://img.abercrombie.com/is/image/anf/KIC_122-3223-1432-108_prod1.jpg?policy=product-extra-large" alt="Crunch wrap supreme"
+		    
       <li><a href="https://www.tacobell.com/food/deals-and-combos/nacho-fries">Nacho Fries</a></li>
 	    <br>
       <li><a href="https://www.tacobell.com/food/deals-and-combos/cantina-chicken-burrito">Cantina Chicken Wrap</a></li>
@@ -92,12 +95,18 @@ section::after {
   </nav>
   
   <article>
+<ol>  
     <h1>WHY</h1>
-    <p> The Crunchwrap Supreme would take the first place in the Taco bell </p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+   <li> At first place is the <strong> Crunchwrap Supreme </strong>. The Crunch Wrap Supreme is a warm hexagonal wrap containg your protein of choice, veggies, and a crunchy tortilla within the wrap! This item is one of Taco Bell's tastiest items and can be eaten at all times of the day as there are breakfeast crunchwraps aswell.</li>
+	<br>
+   <li> At second would be the <srong>Nacho Fries</srong>. A limited time speciality and an unexpexted hit on the Taco Bell Menu, The Nacho Fries are crispy fries seasoned with "bold Mexican spices" and served with a side of nacho cheese sauce. This underrated item has become a fan favorite over a couple years, serving unique flavors that no other fast food offer. </li>
+	<br>
+   <li> At third would be the new and improved<strong> Cantina Chicken Burrito </srong>. Another limited time speciality, as it uses a unique slow roasted and flavorful chicken, veggies, and cheddar cheese. The burrito is also accompanied with a unique avacado verde salsa packet, that enhances the flavor profile of the burrito. </li>
+	   <br>
+   <li> At fourth would be the classic Mexican Pizza. A staple for the vegetaraian community for a long time and a unique fusion invention. The mexican pizza conatins Mexican pizza sauce, refried beans, protein, and veggies all sandwhihced between two crispy tortillas. </li>
+	   <br>
+   <li> Lastly, the infamous drink of Taco Bell, the <strong> Baja Blast</strong>. A strong, fizzy, and refreshing drink to wash down your meals. The Baja Blast is a lime flavoured Mountain Dew flavour, and its popularity has led to the making of its own slushees and even gelattos!   </li>
+</ol>
 	  
   </article>
 </section>
