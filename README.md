@@ -13,7 +13,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Style the header */
+ Style the header */
 header {
   background-color: #666;
   padding: 30px;
@@ -26,7 +26,7 @@ header {
 nav {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 400px; /* only for demonstration, should be removed */
   background: #ccc;
   padding: 20px;
 }
@@ -71,7 +71,7 @@ section::after {
 <p>Resize the browser window to see the responsive effect (you will learn more about this in our next chapter - HTML Responsive.)</p>
 
 <header>
-  <h2>Cities</h2>
+  <h2>REVIEW</h2>
 </header>
 
 <section>
