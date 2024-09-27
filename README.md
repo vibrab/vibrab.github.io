@@ -7,15 +7,14 @@
     <style>
         * {
             box-sizing: border-box;
-        }
 
-        body {
-            font-family: 'Courier New', Courier, monospace;
-            margin: 0;
+body {
+         font-family: 'Courier New', Courier, monospace;
+        margin: 0;
             padding: 0;
         }
 
-        header {
+header {
             background-color: #157;
             padding: 30px;
             text-align: center;
@@ -23,27 +22,27 @@
             color: white;
         }
 
-        nav {
+nav {
             float: left;
             width: 30%;
             background: #ccc;
             padding: 20px;
         }
 
-        article {
+article {
             float: left;
             padding: 20px;
             width: 70%;
             background-color: #f1f1f1;
         }
 
-        section::after {
+section::after {
             content: "";
             display: table;
             clear: both;
         }
 
-        @media (max-width: 600px) {
+@media (max-width: 600px) {
             nav, article {
                 width: 100%;
                 height: auto;
@@ -51,15 +50,15 @@
             }
         }
 
-        img {
+img {
             margin-bottom: 10px;
         }
 
-        h1 {
+h1 {
             font-size: 24px;
         }
 
-        h2, h3 {
+h2, h3 {
             margin: 10px 0;
         }
     </style>
@@ -97,7 +96,7 @@
         </ol>
     </nav>
 
-    <article>
+ <article>
         <h1>WHY</h1>
         <ol>
             <li><strong>Crunchwrap Supreme:</strong> A warm hexagonal wrap containing your protein of choice, veggies, and a crunchy tortilla within the wrap! This item is one of Taco Bell's tastiest offerings and can be enjoyed at any time of the day, including breakfast variants.</li>
