@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>CSS Template</title>
+<title> THE TACOBELL REVIEW </title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Courier New, monospace;
 }
 
  Style the header */
@@ -45,7 +45,7 @@ article {
   height: 300px; /* only for demonstration, should be removed */
 }
 
-/* Clear floats after the columns */
+! Clear floats after the columns */
 section::after {
   content: "";
   display: table;
@@ -76,7 +76,7 @@ section::after {
 
 <section>
   <nav>
-  <h3>THE TOP 5 </h3>
+  <h3> 🔔 THE TOP 5 🌮 🌯</h3>
     <ol>
       <li><a href="https://www.tacobell.com/food/specialties/crunchwrap-supreme">CruchWrap Supreme</a></li>
 	    <br>
@@ -92,8 +92,8 @@ section::after {
   </nav>
   
   <article>
-    <h1>London</h1>
-    <p></p>
+    <h1>WHY</h1>
+    <p> The Crunchwrap Supreme would take the first place in the Taco bell </p>
     <p></p>
     <p></p>
     <p></p>
