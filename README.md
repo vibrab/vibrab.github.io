@@ -79,19 +79,19 @@ h2, h3 {
             </li>
             <li>
                 <a href="https://www.tacobell.com/food/deals-and-combos/nacho-fries">Nacho Fries</a>
-                <img src="images/nachofries.jpg" width="100" height="100" alt="Nacho Fries">
+                <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-04/taco-bell-fries-3-te-230411-e6cfa6.jpg" width="100" height="100" alt="Nacho Fries">
             </li>
             <li>
                 <a href="https://www.tacobell.com/food/deals-and-combos/cantina-chicken-burrito">Cantina Chicken Wrap</a>
-                <img src="images/cantina_burrito.jpg" width="100" height="100" alt="Cantina Chicken Burrito">
+                <img src="https://api.vip.foodnetwork.ca/wp-content/uploads/2024/03/taco-bell-cantina-chicken-burrito.jpg?w=848" width="100" height="100" alt="Cantina Chicken Burrito">
             </li>
             <li>
                 <a href="https://www.tacobell.com/food/specialties/mexican-pizza">Mexican Pizza</a>
-                <img src="images/mexican_pizza.jpg" width="100" height="100" alt="Mexican Pizza">
+                <img src="https://www.foodandwine.com/thmb/6sjROTu2gJdKF5aPArtPDndBvHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Taco-Bell-Mexican-Pizza-Has-Not-Changed-FT-BLOG0522-06490e984de64e77949283682c7433f6.jpg" width="100" height="100" alt="Mexican Pizza">
             </li>
             <li>
                 <a href="https://www.tacobell.com/food/drinks/mtn-dew-baja-blast?store=026046">Baja Blast</a>
-                <img src="images/baja_blast.jpg" width="100" height="100" alt="Baja Blast">
+                <img src="https://www.whittierdailynews.com/wp-content/uploads/2024/07/OCR-L-BAJABLAST-0726.jpg?w=1024" width="100" height="100" alt="Baja Blast">
             </li>
         </ol>
     </nav>
