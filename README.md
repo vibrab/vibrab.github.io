@@ -108,7 +108,7 @@ section::after {
 	  
   </article>
   
-s<imgsrc="https://www.simplyrecipes.com/thmb/rbgbvhXHK03BzVmJcYdUuFL_jWw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Copycat-Crunchwrap-LEAD-3-2a25fc4f7e8f469c849c150f381eeefa.jpg" alt="Crunch wrap supreme"
+<imgsrc="https://www.simplyrecipes.com/thmb/rbgbvhXHK03BzVmJcYdUuFL_jWw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Copycat-Crunchwrap-LEAD-3-2a25fc4f7e8f469c849c150f381eeefa.jpg" alt="Crunch wrap supreme"
 
 </section>
 
