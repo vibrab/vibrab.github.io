@@ -78,15 +78,15 @@ section::after {
   <nav>
   <h3>THE TOP 5 </h3>
     <ol>
-      <li><a href="#">CruchWrap Supreme</a></li>
+      <li><a href="https://www.tacobell.com/food/specialties/crunchwrap-supreme">CruchWrap Supreme</a></li>
 	    <br>
-      <li><a href="#">Nacho Fries</a></li>
+      <li><a href="https://www.tacobell.com/food/deals-and-combos/nacho-fries">Nacho Fries</a></li>
 	    <br>
-      <li><a href="#">Cantina Chicken Wrap</a></li>
+      <li><a href="https://www.tacobell.com/food/deals-and-combos/cantina-chicken-burrito">Cantina Chicken Wrap</a></li>
 	    <br>
-      <li><a href="#">Mexican Pizaa</a></li>
+      <li><a href="https://www.tacobell.com/food/specialties/mexican-pizza">Mexican Pizaa</a></li>
 	    <br>
-      <li><a href="#">Baja Blast</a></li>
+      <li><a href="https://www.tacobell.com/food/drinks/mtn-dew-baja-blast?store=026046">Baja Blast</a></li>
 
     </ol>
   </nav>
